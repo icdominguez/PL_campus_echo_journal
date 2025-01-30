@@ -2,7 +2,6 @@
 .gradle
 /local.properties
 .idea/*
-gradle.properties
 .kotlin/
 .DS_Store
 /build
